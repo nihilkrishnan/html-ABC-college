@@ -301,6 +301,85 @@
 ![image](https://github.com/nihilkrishnan/html-ABC-college/assets/118120621/603fdf86-8a33-4c67-98a6-f13f80d933af)
 ![image](https://github.com/nihilkrishnan/html-ABC-college/assets/118120621/0f023978-a39f-45ba-aaf9-79e4959e8d78)
 ![image](https://github.com/nihilkrishnan/html-ABC-college/assets/118120621/eac1760e-73c0-4d72-b048-9ceef6ddde85)
+```
+```
+# MY DAY:
+
+```c
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Day</title>
+</head>
+<body>
+<table cellpadding= "10" cellspacing="10" style="border-style: double;">
+<tr>
+<th colspan="2" class="center" style="border-style: double;"><mark>My Day</mark></th>
+</tr>
+<tr>
+<td style="border-style: double;">
+<ol>
+<li>wake up early
+<ul>
+<li style="list-style-type: square; margin-bottom: 20px">5AM</li>
+<li>walk</li>
+<li>jog</li>
+</ul>
+</li>
+</ol>
+</td>
+<td rowspan="3" style="border-style: double;">
+<table>
+<tr>
+<th colspan="2" class="center highlight" style="border-style: double;"><mark>Things to watch</mark></th>
+</tr>
+                        <tr>
+                            <td><img src="C:\Users\nihil\Pictures\download.jpeg" alt = "sunrise-image" width="100" height="100"></td>
+                            <td><img src="C:\Users\nihil\Pictures\5-benefits-of-playing-basketball-according-to-experts.jpg" alt="sandwich-image" width="100" height="100"></td>
+                        </tr>
+                        <tr>
+                            <td><img src="C:\Users\nihil\Pictures\fresh-coffee-steams-wooden-table-close-up-generative-ai_188544-8923.avif" alt="coffee-image" width="100" height="100"></td>
+                            <td><img src="C:\Users\nihil\Pictures\images (1).jpeg" alt="teaching-image" width="100" height="100">
+</td>
+                        </tr>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-style: double;">
+<ol start="2">
+<li>breakfast
+<ul>
+<li style="list-style-type: square; margin-bottom: 20px">8AM</li>
+<li>eggs</li>
+<li>coffee</li>
+</ul>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td style="border-style: double;">
+<ol start="3">
+<li>go to Saveetha
+<ul>
+<li style="list-style-type: square; margin-bottom: 20px">8AM</li>
+<li>attend classes</li>
+<li>to be continued</li>
+</ul>
+</li>
+</ol>
+</td>
+</tr>
+</table>
+</body>
+</html>
+```
+# OUTPUT:
+![image](https://github.com/nihilkrishnan/html-ABC-college/assets/118120621/47636901-2740-4738-a8ae-35b28bb5db71)
 
 
 
